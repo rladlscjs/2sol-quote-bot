@@ -1,10 +1,16 @@
 {
-  "quotes_hash": "0790c393bfe8ccc5236034b0af4e189a1a78fc05b30eb1316ad83b99e8caaf9c",
+  "quotes_hash": "4cd037dd931e4fb7f360820aabb6ab4339be8ef50533938fddb45233bbe2620e",
   "remaining": [
-    12,
-    10,
+    6,
     2,
-    4
+    3,
+    5,
+    0,
+    7,
+    4,
+    10,
+    8,
+    9
   ],
   "last_sent": "2026-11-02-12"
 }
